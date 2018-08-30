@@ -19,7 +19,7 @@
   },
   "homepage": "https://github.com/gcanti/tcomb-form-native",
   "dependencies": {
-    "tcomb-validation": "^3.0.0"
+    "tcomb-validation": "https://github.com/srikar0896/tcomb-validation/tarball/master"
   },
   "devDependencies": {
     "@types/eslint-plugin-prettier": "^2.2.0",
